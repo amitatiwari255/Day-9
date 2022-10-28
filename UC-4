@@ -1,0 +1,9 @@
+#/!/bin/bash  -x
+
+
+isfulltime=2
+emprateprhour=20
+randomcheck=$((RANDOM%3))
+
+case $randomcheck in
+                    
